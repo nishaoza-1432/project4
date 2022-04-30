@@ -1,0 +1,166 @@
+body{
+    margin:0px;
+    padding:0px;
+        background-image: url("images/backside.jpg");
+        background-size:cover;
+        backdrop-filter:blur(0px);
+        min-height: 6700px;
+        background-attachment: fixed;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular',  'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    }
+    .img {
+        border: 1px solid whitesmoke;
+        height: 40px;
+        width: 40px;
+        border-radius: 40px;
+        background-image: url("images/flag.png");
+        background-size: cover;
+    }
+    .topbar {
+        display: grid;
+        grid-template-columns: 30% 10% 10% 10% 10% 10% 10% 10%;
+        padding: 30px;
+        font-size: 30px;
+        color:white;
+    }
+    .b1{   
+        padding: 5px 20px 5px 20px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    border:1px solid black;
+    border-radius: 12px;
+    }
+    .b2{
+        padding: 5px 10px 5px 10px;
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+    border:1px solid black;
+    border-radius: 12px;
+    }
+
+
+    .img2{
+            background-image: url("images/yellowflag.jpg");  
+            background-size: cover;       
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            padding: 17px;
+            margin-top: 30px;
+            margin: 0px auto;
+            
+    }
+
+    .img5 {
+        background-image: url("images/firelogo.jpg");
+        background-size: cover;
+        height: 40px;
+        width: 40px;
+        border-radius: 40px;
+    }
+
+    .img6 {
+        background-image: url("images/facebooklogo.jpg");
+        background-size: cover;
+        height: 70px;
+        width: 70px;
+        border-radius:8px;
+    }
+
+    .title {
+        font-size: 90px;
+        text-align: center;
+        color: rgb(254, 254, 255);
+    }
+
+    .desp{
+        width: 70%;
+        margin: 20px auto;
+        font-size: 70px;
+        text-align: center;
+        font-style: italic;
+        color: white;
+    }
+
+   
+    .button1{    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 19px 0;
+    }
+
+    
+    .b3 {
+        padding:45px 170px;
+        background-color: rgba(255, 255, 255, 0.123);
+        border: 2px solid white;
+        color: black;
+         font-size: 25px;
+        font-weight: 1000;
+        border-radius: 5px;
+        margin: 6px 30px;
+        cursor: pointer;
+    }
+
+    .b4 {
+        padding:35px 150px;
+        margin:8px 5px ;
+        background-color: #215595;
+        color: white;
+        font-weight: 700;
+        border-radius: 5px;
+        border: 2px solid white;
+        cursor: pointer;
+    }
+
+
+    .img3 {
+        background-image: url("images/applelogo.jpg");
+        background-size: cover;
+        height: 40px;
+        width: 40px;
+        border-radius: 40px;
+    }
+
+    .img4 {
+        background-image: url("images/telelogo.jpg");
+        background-size: cover;
+        height: 40px;
+        width: 40px;
+        border-radius: 40px;
+    }
+    
+    .button2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 20px 0;
+    }
+
+    .b5{
+        font-size: 25px;
+    color: black;
+    margin-right: 260px;
+    margin-bottom: 60px;
+    }
+
+    .b6 .p1{
+        font-size: 25px;
+        color: black;
+        margin-right: 4px;
+        margin-bottom: 70px;
+    }
+
+    .desp2{
+        font-size: 90px;
+        text-align: center;
+        color:black;
+        font-family:'Courier New', Courier, monospace; 
+        letter-spacing: 10px;
+
+    }
+
+    
